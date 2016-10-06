@@ -1,8 +1,4 @@
-/*
-*{
-    box-sizing: border-box;
-}
-*/
+
 body {
     font-family: 'Lato', sans-serif;
     font-size: 16px;
@@ -22,9 +18,6 @@ img {
 }
 .text-light {
     font-weight: 300;
-}
-.text-thin {
-    font-weight: 100;
 }
 
 /*
