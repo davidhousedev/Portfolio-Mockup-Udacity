@@ -28,7 +28,7 @@ img {
 header {
     height: 100px;
 }
-.header {
+.header-row{
     height: 100px;
     border-bottom: 2px solid #7d79ad;
     margin-top: 10px;
