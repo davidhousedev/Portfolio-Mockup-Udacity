@@ -8,13 +8,16 @@
     h1 {
         font-size: 1.5em;
     }
+
     .header {
         height: 75px;
     }
+
     .header-logo {
         width: 30px;
         height: 30px;
     }
+
     .welcome-row {
         margin-top: 0px;
     }
